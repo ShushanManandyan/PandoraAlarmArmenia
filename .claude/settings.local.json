@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(unzip:*)",
+      "WebFetch(domain:www.ucom.am)",
+      "WebFetch(domain:pandora-alarm.am)",
+      "WebSearch",
+      "WebFetch(domain:www.pandoracaralarm.com)",
+      "WebFetch(domain:pandora-alarm.eu)",
+      "Bash(perl:*)",
+      "Bash(git init:*)"
+    ]
+  }
+}
